@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and webprogramming.
 - 💞️ I’m looking to collaborate on anything.
 
-Check out [my site] (https://milank.xyz/)
+Check out [my site](https://milank.xyz/)
 <!---- 📫 You can reach me on email: or anywhere you find me.--->
 
 
